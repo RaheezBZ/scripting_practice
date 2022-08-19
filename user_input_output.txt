@@ -1,0 +1,16 @@
+Enter Your Name: 
+Raheez
+Your Name is Raheez
+
+Enter 2 space seperated names
+Raheez Manikantha
+Name1: Raheez, Name2:Manikantha
+
+username:raheez
+password:
+Your username:raheez
+Your password:1234
+Enter Names
+Raheez Manikantha uday charan
+Names: Raheez Manikantha
+
