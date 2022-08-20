@@ -1,0 +1,3 @@
+No of args passes 6
+passes args are : a,b...
+
