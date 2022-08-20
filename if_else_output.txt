@@ -1,0 +1,9 @@
+raheez@raheez-VirtualBox:~/Desktop$ bash if_else.sh 
+Enter a Number
+2
+2 is even number
+raheez@raheez-VirtualBox:~/Desktop$ bash if_else.sh 
+Enter a Number
+3
+3 is odd number
+
