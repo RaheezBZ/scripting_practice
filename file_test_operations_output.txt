@@ -1,0 +1,19 @@
+raheez@raheez-VirtualBox:~/Desktop$ bash file_test_operations.sh 
+Enter The Name of the file: hello.sh
+hello.sh exists
+
+hello.sh is a regular file and exists
+
+Enter directory name to check if it exists
+dir
+dir exists
+raheez@raheez-VirtualBox:~/Desktop$ bash file_test_operations.sh 
+Enter The Name of the file: hii.sh
+hii.sh does not exist
+
+hii.sh is not exists/not a regular file
+
+Enter directory name to check if it exists
+bin
+bin does not exist
+

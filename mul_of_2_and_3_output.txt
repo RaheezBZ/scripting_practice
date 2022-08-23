@@ -1,0 +1,13 @@
+aheez@raheez-VirtualBox:~/Desktop$ bash mul_of_2_and_3.sh 
+Enter a number to check if its multiple of both 2 and 3
+6
+multiple of 2 and 3
+raheez@raheez-VirtualBox:~/Desktop$ bash mul_of_2_and_3.sh 
+Enter a number to check if its multiple of both 2 and 3
+12
+multiple of 2 and 3
+raheez@raheez-VirtualBox:~/Desktop$ bash mul_of_2_and_3.sh 
+Enter a number to check if its multiple of both 2 and 3
+7
+not a multiple 2 and 3
+
