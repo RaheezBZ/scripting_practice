@@ -1,0 +1,5 @@
+ubuntu@ubuntu:~/Desktop/scripts$ bash finder1.sh 
+Enter The string to search in files
+str
+./finder1.sh
+
