@@ -1,0 +1,16 @@
+...........Below is your System info............
+t Hello ubuntu
+
+Today's date is Sun Sep  4 17:08:48 UTC 2022
+
+These users are currently connected:
+
+ubuntu
+
+This is Linux running on a x86_64 processor.
+
+This is the uptime information:
+ 17:08:48 up  1:23,  1 user,  load average: 0.22, 0.20, 0.25
+
+That's all buddy!
+
