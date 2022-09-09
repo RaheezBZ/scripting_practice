@@ -1,0 +1,9 @@
+ubuntu@ubuntu:~/Desktop/bash_scripts$ bash elapse_time.sh 
+Welcome 1 times
+Welcome 2 times
+Welcome 3 times
+Welcome 4 times
+Welcome 5 times
+Time elapsed: 0 seconds
+ubuntu@ubuntu:~/Desktop/bash_scripts$ 
+
